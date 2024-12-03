@@ -1,4 +1,4 @@
-# Customize Termux
+# Customize Termux.
   
  You can customize your termux using this very simple script 
  
